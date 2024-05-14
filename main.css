@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(1, 103, 71)
+}
+
+.tall {
+    width: 400px;
+    background-color: rgba(165, 42, 42, 0.543);
+    margin: 0 auto;
+    color: white;
+    padding: 12px 0;
+    box-sizing: border-box;
+}
+
+/* qayerda padding qatnashsa box-sizing border-box qatnashadi */
+
+.num {
+    width: 800px;
+    height: 555px;
+    background-color: black;
+    border: 7px solid red;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.game {
+    width: 770px;
+    height: 250px;
+    background-color: aquamarine;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+.gun {
+    width: 770px;
+    height: 250px;
+    background-color: aquamarine;
+    margin: 0 auto;
+    margin-top: 15px;
+}
